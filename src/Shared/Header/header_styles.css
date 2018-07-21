@@ -1,0 +1,18 @@
+.Header{
+    width: 100%;
+    min-height: 40px;
+    background: pink;
+    display: flex;
+    justify-content: space-between;
+}
+.nav{
+    padding: 5px;
+    color: white;
+    width: 50%;
+    display: flex;
+    justify-content: space-evenly;
+}
+.nav a{
+    color: white;
+    text-decoration: none;
+}
